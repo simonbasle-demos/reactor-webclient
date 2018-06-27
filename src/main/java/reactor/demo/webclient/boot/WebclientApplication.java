@@ -1,4 +1,4 @@
-package reactor.demo.webclient;
+package reactor.demo.webclient.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
